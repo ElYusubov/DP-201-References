@@ -6,3 +6,6 @@ This exam really tests your ability to demonstrate good understanding of setting
 The exam has around 40-50 questions and is somewhat similar to other Azure Associate exams. The exam duration is fixed around 180 minutes with additional 30 minutes for reading instructions, signing the non-disclosure agreement, and giving feedback to each question at the end.
 
 Expect different types of questions (single choice, multi-choice, binary choice and sorting order) and one or two case studies.
+
+<b>If you are studying for the this exam then you could check a study guide, provided freely below:</b></br>
+https://www.linkedin.com/pulse/microsoft-azure-data-engineer-certification-tips-study-elkhan-yusubov/?trackingId=BKIZJwRLlBSuA%2FoiVDMbqg%3D%3D
